@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MariaKarolinaS
 - 🌱 I’m currently learning C++ and Python...
 - 📫 How to reach me in karolinasingulani2@gmail.com :)
+-:kissing_closed_eyes: A young padawan learning more every day
 
 <!---
 MariaKarolinaS/MariaKarolinaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
